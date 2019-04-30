@@ -6,7 +6,7 @@ This repository contains a list of pipelines in [IRIDA][] available as plugins.
 
 To install each of these plugins, please download the appopriate JAR file from the **Release** link and copy to the directory `/etc/irida/plugins/` on a machine running IRIDA. Then, re-start IRIDA and you should see the pipeline appear in your list of pipelines.
 
-Please see the [IRIDA Pipline Plugin][] documentation for more details.
+Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 
 # Plugins
 
@@ -28,6 +28,10 @@ We welcome the contribution of any pipelines you have developed for IRIDA. If yo
 ```
 
 The `[RELEASE]` could be a direct link to your GitHub releases page (e.g., <https://github.com/phac-nml/irida-plugin-amr-detection/releases>), a link to the appropriate JAR file, or if you wish to make use of a badge for your release/repository, you can refer to <https://shields.io/category/version>.
+
+# License
+
+Text in this repository is licensed under the **Creative Commons Attribution 4.0 International** <https://creativecommons.org/licenses/by/4.0/> license. Licenses for each IRIDA plugin are specific to each plugin and should be available from the respective code repositories.
 
 [IRIDA]: https://github.com/phac-nml/irida/
 [IRIDA Pipeline Plugin]: https://irida.corefacility.ca/documentation/developer/tools/pipelines/#4-test-in-irida
