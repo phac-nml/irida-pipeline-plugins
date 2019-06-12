@@ -14,6 +14,7 @@ Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 |------|------------|-------------|---------|
 | Example Plugin | <https://github.com/phac-nml/irida-plugin-example> | An Example plugin to be used as a template for developing IRIDA pipeline plugins. | [![GitHub release](https://img.shields.io/github/release/phac-nml/irida-plugin-example.svg)](https://github.com/phac-nml/irida-plugin-example/releases/latest) |
 | AMR Detection | <https://github.com/phac-nml/irida-plugin-amr-detection> | A pipeline for the detection of antimicrobial resistance genes in bacterial isolates. | [![GitHub release](https://img.shields.io/github/release/phac-nml/irida-plugin-amr-detection.svg)](https://github.com/phac-nml/irida-plugin-amr-detection/releases/latest) |
+| MLST | <https://github.com/public-health-bioinformatics/irida-plugin-mlst> | A pipeline for traditional MLST using PubMLST schemas. | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-mlst.svg)](https://github.com/public-health-bioinformatics/irida-plugin-mlst/releases/latest) |
 
 # Development
 
