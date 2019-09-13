@@ -17,6 +17,7 @@ Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 | ECTYPER | <https://github.com/phac-nml/irida-plugin-ectyper> | A pipeline to in silico serotype *E.coli* isolates | [![GitHub release](https://img.shields.io/github/release-pre/phac-nml/irida-plugin-ectyper.svg?color=blue)](https://github.com/phac-nml/irida-plugin-ectyper/releases) |
 | MLST | <https://github.com/public-health-bioinformatics/irida-plugin-mlst> | A pipeline for traditional MLST using PubMLST schemas. | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-mlst.svg)](https://github.com/public-health-bioinformatics/irida-plugin-mlst/releases/latest) |
 | QI-TAXON | <https://github.com/quadram-institute-bioscience/irida-plugin-qi-taxon> | A pipeline for read based taxon classification. | [![GitHub release](https://img.shields.io/github/release/quadram-institute-bioscience/irida-plugin-qi-taxon.svg)](https://github.com/quadram-institute-bioscience/irida-plugin-qi-taxon/releases/latest) |
+| QI-PHYLO | <https://github.com/quadram-institute-bioscience/irida-plugin-qi-phylo> | A pipeline for rFast phylogeny pipeline (Snippy, IQTree) | [![GitHub release](https://img.shields.io/github/release/quadram-institute-bioscience/irida-plugin-qi-phylo.svg)](https://github.com/quadram-institute-bioscience/irida-plugin-qi-phylo/releases/latest) |
 
 # Development
 
