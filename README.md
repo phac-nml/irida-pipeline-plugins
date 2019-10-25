@@ -18,6 +18,7 @@ Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 | MLST | <https://github.com/public-health-bioinformatics/irida-plugin-mlst> | A pipeline for traditional MLST using PubMLST schemas. | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-mlst.svg)](https://github.com/public-health-bioinformatics/irida-plugin-mlst/releases/latest) |
 | QI-TAXON | <https://github.com/quadram-institute-bioscience/irida-plugin-qi-taxon> | A pipeline for read based taxon classification. | [![GitHub release](https://img.shields.io/github/release/quadram-institute-bioscience/irida-plugin-qi-taxon.svg)](https://github.com/quadram-institute-bioscience/irida-plugin-qi-taxon/releases/latest) |
 | QI-PHYLO | <https://github.com/quadram-institute-bioscience/irida-plugin-qi-phylo> | A pipeline for rFast phylogeny pipeline (Snippy, IQTree) | [![GitHub release](https://img.shields.io/github/release/quadram-institute-bioscience/irida-plugin-qi-phylo.svg)](https://github.com/quadram-institute-bioscience/irida-plugin-qi-phylo/releases/latest) |
+| Species Abundance | <https://github.com/public-health-bioinformatics/irida-plugin-species-abundance> | Estimate relative species abundance with Kraken2 & bracken | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-species-abundance.svg)](https://github.com/public-health-bioinformatics/irida-plugin-species-abundance/releases/latest) |
 
 # Development
 
