@@ -19,6 +19,7 @@ Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 | QI-TAXON | <https://github.com/quadram-institute-bioscience/irida-plugin-qi-taxon> | A pipeline for read based taxon classification. | [![GitHub release](https://img.shields.io/github/release/quadram-institute-bioscience/irida-plugin-qi-taxon.svg)](https://github.com/quadram-institute-bioscience/irida-plugin-qi-taxon/releases/latest) |
 | QI-PHYLO | <https://github.com/quadram-institute-bioscience/irida-plugin-qi-phylo> | A pipeline for rFast phylogeny pipeline (Snippy, IQTree) | [![GitHub release](https://img.shields.io/github/release/quadram-institute-bioscience/irida-plugin-qi-phylo.svg)](https://github.com/quadram-institute-bioscience/irida-plugin-qi-phylo/releases/latest) |
 | Species Abundance | <https://github.com/public-health-bioinformatics/irida-plugin-species-abundance> | Estimate relative species abundance with Kraken2 & bracken | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-species-abundance.svg)](https://github.com/public-health-bioinformatics/irida-plugin-species-abundance/releases/latest) |
+| Resistance Screen | <https://github.com/public-health-bioinformatics/irida-plugin-resistance-screen> | Detect presence of specific resistance genes | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-resistance-screen.svg)](https://github.com/public-health-bioinformatics/irida-plugin-resistance-screen/releases/latest) |
 
 # Development
 
