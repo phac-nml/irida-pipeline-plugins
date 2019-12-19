@@ -21,6 +21,8 @@ Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 | Species Abundance | <https://github.com/public-health-bioinformatics/irida-plugin-species-abundance> | Estimate relative species abundance with Kraken2 & bracken | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-species-abundance.svg)](https://github.com/public-health-bioinformatics/irida-plugin-species-abundance/releases/latest) |
 | Resistance Screen | <https://github.com/public-health-bioinformatics/irida-plugin-resistance-screen> | Detect presence of specific resistance genes | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-resistance-screen.svg)](https://github.com/public-health-bioinformatics/irida-plugin-resistance-screen/releases/latest) |
 | TETyper | <https://github.com/public-health-bioinformatics/irida-plugin-tetyper> | Determine sequence types for specific transposable elements | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-tetyper.svg)](https://github.com/public-health-bioinformatics/irida-plugin-tetyper/releases/latest) |
+| Snippy Single | <https://github.com/public-health-bioinformatics/irida-plugin-snippy-single> | Variant calling against a reference genome for a single isolate  | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-snippy-single.svg)](https://github.com/public-health-bioinformatics/irida-plugin-snippy-single/releases/latest) |
+
 
 # Development
 
