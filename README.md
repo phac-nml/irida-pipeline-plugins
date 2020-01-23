@@ -24,6 +24,7 @@ Please see the [IRIDA Pipeline Plugin][] documentation for more details.
 | Snippy Single | <https://github.com/public-health-bioinformatics/irida-plugin-snippy-single> | Variant calling against a reference genome for a single isolate  | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-snippy-single.svg)](https://github.com/public-health-bioinformatics/irida-plugin-snippy-single/releases/latest) |
 | MiCall-Lite | <https://github.com/public-health-bioinformatics/irida-plugin-micall-lite> | Hepatitis C Virus Genotyping  | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-micall-lite.svg)](https://github.com/public-health-bioinformatics/irida-plugin-micall-lite/releases/latest) |
 | Plasmid Screen | <https://github.com/public-health-bioinformatics/irida-plugin-plasmid-screen> | Locate resistance genes on plasmids  | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-plasmid-screen.svg)](https://github.com/public-health-bioinformatics/irida-plugin-plasmid-screen/releases/latest) |
+| TBProfiler | <https://github.com/public-health-bioinformatics/irida-plugin-tbprofiler> | Identify lineage and drug resistance variants in M. tuberculosis  | [![GitHub release](https://img.shields.io/github/release/public-health-bioinformatics/irida-plugin-tbprofiler.svg)](https://github.com/public-health-bioinformatics/irida-plugin-tbprofiler/releases/latest) |
 
 
 
