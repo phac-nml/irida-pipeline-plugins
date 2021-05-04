@@ -2,6 +2,8 @@
 
 This repository contains a list of pipelines in [IRIDA][] available as plugins.
 
+The IRIDA group does not maintain these plugins so any questions or concerns should be directed to the plugin's developers.
+
 # Installation
 
 To install each of these plugins, please download the appopriate JAR file from the **Release** link and copy to the directory `/etc/irida/plugins/` on a machine running IRIDA. Then, re-start IRIDA and you should see the pipeline appear in your list of pipelines.
