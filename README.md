@@ -52,6 +52,6 @@ The `[RELEASE]` could be a direct link to your GitHub releases page (e.g., <http
 Text in this repository is licensed under the **Creative Commons Attribution 4.0 International** <https://creativecommons.org/licenses/by/4.0/> license. Licenses for each IRIDA plugin are specific to each plugin and should be available from the respective code repositories.
 
 [IRIDA]: https://github.com/phac-nml/irida/
-[IRIDA Pipeline Plugin]: https://irida.corefacility.ca/documentation/developer/tools/pipelines/#4-test-in-irida
-[plugin-main]: https://irida.corefacility.ca/documentation/developer/tools/pipelines/
+[IRIDA Pipeline Plugin]: https://phac-nml.github.io/irida-documentation/developer/tools/pipelines/#4-test-in-irida
+[plugin-main]: https://phac-nml.github.io/irida-documentation/developer/tools/pipelines/
 [IRIDA Example Plugin]: https://github.com/phac-nml/irida-plugin-example
